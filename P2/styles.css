@@ -1,0 +1,38 @@
+/* 添加 CSS */
+/**{
+	margin:0;padding:0;
+}*/
+body{
+	border: 1px solid #EEEEEE;
+	max-width: 300px;
+	padding: 8px;
+	box-shadow: 8px 8px 5px #E0E0E0;
+}
+img{
+	width: 300px;
+	height: 200px;
+}
+.funny {
+	font-style: italic;
+}
+span{
+	font-weight: bold;
+}
+li{
+	list-style: none;
+}
+ul{
+	margin: 10px;
+	margin-left: 0px;
+	padding: 0;
+}
+/*.all{
+	border-style: outset;border-width: 3px;
+}*/
+.text{
+	/*border-style: solid;border-width: 0.5px;*/
+	border:1px solid #eeeeee;
+	/**margin: : 15px;**/
+	padding: 8px;
+	margin-top: 8px;
+}

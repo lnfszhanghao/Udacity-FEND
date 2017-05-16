@@ -2,26 +2,34 @@
 /**{
 	margin:0;padding:0;
 }*/
-body{
-	border: 1px solid #EEEEEE;
+body {
+	border: 1px solid #eee;
 	max-width: 300px;
 	padding: 8px;
-	box-shadow: 8px 8px 5px #E0E0E0;
+	box-shadow: 8px 8px 5px #e0e0e0;
 }
-img{
+
+img {
 	width: 300px;
 	height: 200px;
 }
+
 .funny {
 	font-style: italic;
 }
-span{
+
+.SN,
+.AL,
+.ALI,
+.Ha {
 	font-weight: bold;
 }
-li{
+
+li {
 	list-style: none;
 }
-ul{
+
+ul {
 	margin: 10px;
 	margin-left: 0px;
 	padding: 0;
@@ -29,7 +37,7 @@ ul{
 /*.all{
 	border-style: outset;border-width: 3px;
 }*/
-.text{
+.text {
 	/*border-style: solid;border-width: 0.5px;*/
 	border:1px solid #eeeeee;
 	/**margin: : 15px;**/
